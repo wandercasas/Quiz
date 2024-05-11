@@ -1,0 +1,72 @@
+.title {
+    text-align: center;
+    background: #000;
+    color: white;
+   padding: 10px 0;
+   border: white;
+}
+.title p{
+    border: white 2px solid;
+    
+
+
+}
+
+
+
+.container {
+    text-align: center;
+    max-width: 700px;
+    margin: auto;
+    padding: 20px;
+    
+}
+section {
+    border: 3px solid black;
+    border-radius: 7px;
+    padding: 5px;
+    margin: 10px 0;
+}
+
+
+
+label {
+    display: block;
+    padding: 3px;
+    border-radius: 7px;
+    margin-bottom: 3px;
+    cursor: pointer;
+    border: 3px dashed black;
+}
+
+label:hover{
+    background: black;
+    color: white;
+    
+}
+
+.container button{
+    
+    width: 100px;
+    
+    
+    padding: 15px;
+
+    background-color: red;
+    color: black;
+    
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+h3 {
+    text-align: center;
+}
+#resultado {
+    font-size: 20px;
+    color: black;
+    
+}
+
